@@ -1,0 +1,3 @@
+USE bd_endereco;
+SELECT *
+FROM ENDERECO;
